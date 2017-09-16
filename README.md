@@ -4,6 +4,7 @@ Rendering Angular2 components with Django.
 
 ## How to
 
+* cd /home/static/home
 * npm install
 * npm start
 
